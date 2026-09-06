@@ -1,10 +1,22 @@
 [
   {
-    "Nama": "Infinite Yield",
-    "Url": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"
+    "Nama": "Chat",
+    "Url": "https://pastefy.app/108vjy8A/raw"
   },
   {
     "Nama": "SaZam Emote",
     "Url": "https://raw.githubusercontent.com/zdanx/mysc/refs/heads/main/cstm/SaZa%20Emote.lua"
-  }
+  },
+  {
+    "Nama": "Flames Hub",
+    "Url": "https://raw.githubusercontent.com/zdanx/mysc/refs/heads/main/fh.lua"
+  },
+  {
+    "Nama": "Cryptic",
+    "Url": "https://raw.githubusercontent.com/OnlyCryptic/Cryptic/main/main.lua"
+  },
+  {
+    "Nama": "Infinite Yield",
+    "Url": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"
+  },
 ]
